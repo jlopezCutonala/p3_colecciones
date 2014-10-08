@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="p3_colecciones/ejemploHashTable.cs">
+    <Files>
+      <File FileName="p3_colecciones/Main.cs" Line="43" Column="1" />
+      <File FileName="p3_colecciones/Persona.cs" Line="13" Column="1" />
+      <File FileName="p3_colecciones/ejemploPila.cs" Line="13" Column="1" />
+      <File FileName="p3_colecciones/ejemploCola.cs" Line="13" Column="1" />
+      <File FileName="p3_colecciones/ejemploArrayList.cs" Line="54" Column="1" />
+      <File FileName="p3_colecciones/ejemploHashTable.cs" Line="48" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>hashtable</Value>
+          <Value>valueColl</Value>
+          <Value>keyColl</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_colecciones/p3_colecciones/ejemploArrayList.cs" line="47" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_colecciones/p3_colecciones/ejemploHashTable.cs" line="46" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_colecciones/p3_colecciones/ejemploHashTable.cs" line="69" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_colecciones/p3_colecciones/Main.cs" line="39" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/Main.cs" line="9" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploArrayList.cs" line="13" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploArrayList.cs" line="27" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploArrayList.cs" line="48" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploHashTable.cs" line="13" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploHashTable.cs" line="62" />
+      <Breakpoint file="/home/jona/Documentos/repositorios/p3_colecciones/p3_colecciones/ejemploHashTable.cs" line="85" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
